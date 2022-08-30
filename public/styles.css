@@ -1,0 +1,112 @@
+body {
+    min-height: 100vh;
+    position: relative;
+}
+
+footer {
+    /* position: absolute; */
+    text-align: center;
+    bottom: 0;
+}
+.text {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.navbar {
+    padding-right: 2%;
+}
+
+.calendafy-logo {
+    font-size: 2rem;
+    font-family: cursive;
+    color: #4B77D1;
+    padding-left: 5%
+}
+
+.heading-text {
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    text-align: center;
+    padding: 20px;
+    display: block;
+}
+
+.calendafy-demo {
+    width:90%;
+    height:100%;
+    object-fit: cover;
+    padding: 5%;
+}
+
+.partnerLogo {
+    padding-bottom: 10%;
+    /* padding: 2%; */
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+/* .navbartext {
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    
+} */
+
+/* .top-button {
+    text-align: right;
+} */
+
+.answer-hidden {
+    padding: 50%;
+    display: none;
+    overflow: hidden;
+    background-color: #f1f1f1;
+}
+
+.stopOverflow {
+    position: absolute;
+}
+
+.width {
+    width: 100%
+}
+
+.pricing {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+p {
+    padding-top: 2%;
+}
+
+.mailingList {
+    text-align: center;
+    padding: 2%;
+    padding-bottom: 5%;
+}
+
+.email {
+    padding-left: 35%;
+    padding-right: 35%;
+}
+
+#signUp {
+    padding-bottom: 2%;
+}
+
+#lastName {
+    margin-left: 5px;
+}

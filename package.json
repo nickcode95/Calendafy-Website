@@ -1,0 +1,26 @@
+{
+  "name": "calendafy",
+  "version": "1.0.0",
+  "description": "\"# calendafy\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickcode95/calendfay.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nickcode95/calendfay/issues"
+  },
+  "homepage": "https://github.com/nickcode95/calendfay#readme",
+  "dependencies": {
+    "@mailchimp/mailchimp_marketing": "^3.0.75",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "jquery": "^3.6.0",
+    "jsdom": "^20.0.0"
+  }
+}
